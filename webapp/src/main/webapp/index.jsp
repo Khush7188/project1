@@ -2,5 +2,5 @@
         <h2>welcome to Automated deployment of Java website on Tomcat server using Jenkins</h2><br>
 	<img alt="logo" src="main-logo.png"><br>
 	<h1>thank you </h1>
-	<h1>lcet team </h1>
+	<h1>lcet team members </h1>
 </center>
